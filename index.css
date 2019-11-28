@@ -1,0 +1,30 @@
+body{
+     font-family: 'Courier New', Courier, monospace;
+     font-size: larger;
+    background-image: url(kevin-ku-aiyBwbrWWlo-unsplash.jpg);
+    background-size: cover;
+}
+
+nav{ 
+    font-size: large;
+    
+}
+
+
+li{  color:#C6C6c6;
+    list-style-type: none;
+    display: inline-block;
+}
+a{  color:#c6c6c6;
+    text-decoration: none;
+
+}
+li:hover {color: 	#7A718F;
+
+}
+a:hover {color: 	#7A718F;}
+
+h1{ 
+    text-align: center;
+    clear: both;
+}
